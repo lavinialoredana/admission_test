@@ -1,0 +1,107 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <link rel="stylesheet" href="evernotes styles.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>EVERNOTE</title>
+</head>
+
+<body>
+
+  <header>
+    <div>
+      <img class="image-top-left" src="https://cdn.mos.cms.futurecdn.net/Dw6n9tWS4FSy6oNtsEiYUV-1024-80.jpg">
+
+
+      <nav>
+        <ul class="header-list">
+          <li class="header-list-item">Plans</li>
+          <li class="header-list-item">Features</li>
+          <li class="header-list-item">Help && Learning</li>
+          <li class="header-list-item">About us</li>
+        </ul>
+      </nav>
+    </div>
+
+    <div class="sign-up">
+      <span>
+        Sign up
+      </span>
+      <span>
+        or
+      </span>
+      <button>
+        Log in
+      </button>
+    </div>
+  </header>
+
+
+
+  <main>
+
+
+
+    <div id="main-section-hero">
+
+      <div id="section-hero-left">
+
+        <span>Your notes.</span>
+        <span>Organised.</span>
+        <span>Effortless</span>
+
+        <p>
+          Take notes anywhere. Find information faster. Share ideas with anyone. Meeting notes, web pages,
+          projects,
+          to-do lists—with Evernote as your note taking app, nothing falls through the cracks.
+        </p>
+
+        <button>SIGN UP FOR FREE. </button>
+
+      </div>
+
+      <div id="section-hero-right">
+        <img src=" https://evernote.com/c/assets/homepage/homepage-hero-desktop.png?3044bdd28d311821" alt="homepage ">
+      </div>
+
+    </div>
+
+    </div>
+  </main>
+
+  <div id=" main-focus">
+
+    <div id="section-focus-one">
+      <img src="https://evernote.com/c/assets/homepage/homepage-focus.png?3b18f2f592336b85" alt="focus-head">
+
+      <span>
+        Focus on what matters most.
+      </span>
+    </div>
+    <div id="section-focus-two">
+      <p>
+        Manage everything from big moments to personal projects.
+      </p>
+      <p>
+        Capture ideas and inspirations in notes, voice and pictures.
+      </p>
+      <p>
+        Never lose track of your tasks and deadlines.
+      </p>
+    </div>
+
+
+  </div>
+
+
+
+
+  </div>
+
+</body>
+
+</html>
